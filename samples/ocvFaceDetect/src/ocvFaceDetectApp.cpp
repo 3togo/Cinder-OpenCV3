@@ -3,7 +3,7 @@
 #include "cinder/gl/gl.h"
 #include "cinder/Capture.h"
 
-#include "CinderOpenCv.h"
+#include "CinderOpenCV.h"
 
 using namespace ci;
 using namespace ci::app;
